@@ -1,0 +1,15 @@
+Order ID,Product Name,Price,Category,Prev_Cat
+659700dca420fb021ec32376,product 22,1200,undefined,undefined
+659700e3a420fb021ec3237a,product 3,1200,undefined,undefined
+659701991092fdfde78c1514,product 33,1200,undefined,undefined
+659706a91092fdfde78c1522,product 332,1200,undefined,undefined
+659707f5e4f31a10e1a1ce7c,product 332,1200,mens,women
+65970801e4f31a10e1a1ce80,product 332,1200,mens,kids
+65970806e4f31a10e1a1ce84,product 332,1200,mens,women
+65970807e4f31a10e1a1ce88,product 332,1200,mens,women
+65970808e4f31a10e1a1ce8c,product 332,1200,mens,women
+6597080de4f31a10e1a1ce90,product 332,1200,mens,kid
+65970819e4f31a10e1a1ce94,product 332,1200,mens,test
+65970830e4f31a10e1a1ce98,product 332,1200,women,kid
+65970831e4f31a10e1a1ce9c,product 332,1200,women,kid
+65970837e4f31a10e1a1cea0,product 3326,1200,women,kid
